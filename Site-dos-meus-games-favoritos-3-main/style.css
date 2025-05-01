@@ -1,0 +1,25 @@
+body {background-color:rgb(22, 7, 7);}
+h1 { background: #413434;}
+h1 {text-align: center;}
+h1{color: #460000;}
+h2 {background-color: #413434;}
+p{
+    text-align: center;
+}
+p{background-color: rgb(146, 21, 21);}
+p{color: #f57474}
+
+img {margin-left: 500px;}
+img {width: 40%;}
+Strong{background-color: #b11d1d;}
+h2{
+     text-align: center ;
+    }
+h2{background-color: #8a2a2a;}
+h3{background-color: #bd5454;}
+h4 {color: #460000;}
+
+a {text-align: center;
+    color: #b11d1d;
+    text-decoration: underline;
+}
